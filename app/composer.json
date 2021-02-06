@@ -1,0 +1,15 @@
+{
+    "name": "elluminatte/popular-words",
+    "description": "Allows to get popular words from text",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Salov Nikolay",
+            "email": "elluminatte@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
